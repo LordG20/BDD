@@ -16,3 +16,8 @@ Create TABLE CASASOLA(
 ID INT PRIMARY KEY NOT NULL
 NOMBRE VARCHAR2(10)
 );
+
+Insert Into Prueba Values(
+2,
+"Angelo CPP"
+);
